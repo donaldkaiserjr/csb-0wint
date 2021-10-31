@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://donaldkaiserjr.github.io/csb-0wint/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://donaldkaiserjr.github.io/csb-0wint/static/js/main.c1bd34c9.chunk.js",
+    "main.js.map": "https://donaldkaiserjr.github.io/csb-0wint/static/js/main.c1bd34c9.chunk.js.map",
+    "runtime-main.js": "https://donaldkaiserjr.github.io/csb-0wint/static/js/runtime-main.9ea1beb2.js",
+    "runtime-main.js.map": "https://donaldkaiserjr.github.io/csb-0wint/static/js/runtime-main.9ea1beb2.js.map",
+    "static/js/2.a4ba2aed.chunk.js": "https://donaldkaiserjr.github.io/csb-0wint/static/js/2.a4ba2aed.chunk.js",
+    "static/js/2.a4ba2aed.chunk.js.map": "https://donaldkaiserjr.github.io/csb-0wint/static/js/2.a4ba2aed.chunk.js.map",
+    "index.html": "https://donaldkaiserjr.github.io/csb-0wint/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://donaldkaiserjr.github.io/csb-0wint/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4ba2aed.chunk.js.LICENSE.txt": "https://donaldkaiserjr.github.io/csb-0wint/static/js/2.a4ba2aed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ea1beb2.js",
+    "static/js/2.a4ba2aed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c1bd34c9.chunk.js"
+  ]
+}
